@@ -20,7 +20,11 @@
 13. [Deployment Instructions](#deployment-instructions)
 
 ---
+### Demo Videos
 
+Frontend Demo Video : https://drive.google.com/file/d/1XSenz8LNY3WOxbd526S4Sq46yGJbeB4G/view?usp=sharing
+
+Backend Demo vedio : https://drive.google.com/file/d/1ox1uJAT4cV-j9FxhAY6Bvlgus8ZQtjy4/view?usp=sharing
 ## Project Overview
 
 The AI Resume Screener helps recruiters and HR teams:
